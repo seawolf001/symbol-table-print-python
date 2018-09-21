@@ -1,0 +1,17 @@
+#####################################################
+############          GROUP 7           #############
+############  ANUPAM DAS  1401CS52      #############
+############  JITENDRA KUMAR  1401CS19  #############
+############  SATYA PRAKASH  1401CS06   #############
+#####################################################
+
+Assumptions::
+
+(1) There must be space after any tokens.
+
+(2) Variable names can't start with an integer
+
+(3) There must be space between operators and operands like "b = 5 + 8" or
+"a / b - c"
+not like "b=5+8" or "a/b-c"
+
